@@ -1,0 +1,4 @@
+repository "MEO Academy 3D@M1sterZag@cloud"
+  path "/"
+    br "/main"
+    co "/main"
